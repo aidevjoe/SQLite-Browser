@@ -17,4 +17,4 @@ An App that views the SQLite database on the iPhone
 ## Libs
 
 - [SpreadsheetView - Full configurable spreadsheet view user interfaces for iOS applications.](https://github.com/kishikawakatsumi/SpreadsheetView)
-- [SanboxBrowser](A simple iOS sandbox file browser)
+- [SanboxBrowser - A simple iOS sandbox file browser](https://github.com/Joe0708/SandboxBrowser)

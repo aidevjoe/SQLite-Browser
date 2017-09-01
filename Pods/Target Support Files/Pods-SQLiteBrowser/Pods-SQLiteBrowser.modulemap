@@ -1,0 +1,6 @@
+framework module Pods_SQLiteBrowser {
+  umbrella header "Pods-SQLiteBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}

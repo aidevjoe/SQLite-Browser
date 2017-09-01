@@ -1,0 +1,6 @@
+framework module SandboxBrowser {
+  umbrella header "SandboxBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
